@@ -4,13 +4,6 @@
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-green.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**Author:** Zohaib Shoukat  
-**Roll Number:** 26k-8208  
-**Program:** Master of Science in Software Engineering  
-**Email:** azohaibshoukat22@gmail.com  
-**Institution:** National University of Computer and Emerging Sciences  
-**GitHub Repository:** [https://github.com/Zohaib2024/blockchain-research-work.git](https://github.com/Zohaib2024/blockchain-research-work.git)
-
 ---
 
 ## Overview
@@ -21,10 +14,6 @@ This repository provides a working blockchain-based implementation of the peer-r
 > **IEEE Transactions on Intelligent Transportation Systems**, DOI: [10.1109/TITS.2020.3004041](https://doi.org/10.1109/TITS.2020.3004041)
 
 The complete implementation translates theoretical mathematical trust models into a functioning, localized private blockchain network on **MultiChain 2.3.3**, implementing Algorithms 1, 2, 3, hard/soft revocation, solo framing defense, and regional handovers.
-
-Included in this repository:
-1. `ZohaibReport.pdf`: Complete Master of Science technical implementation and research report.
-2. `Blockchain-Based-Adaptive-Trust-Management-in-IoV.pdf`: Original reference IEEE research paper.
 
 ---
 
@@ -71,8 +60,6 @@ Included in this repository:
 .
 ├── README.md                                          # Documentation & execution guide
 ├── LICENSE                                            # MIT Open-Source License
-├── ZohaibReport.pdf                                   # Technical Implementation Report
-├── Blockchain-Based-Adaptive-Trust-Management-in-IoV.pdf # Reference Research Paper
 ├── setup_chain.sh                                     # Automated blockchain setup script
 ├── contracts/                                         # Solidity smart contracts
 │   ├── GlobalTrustManager.sol                         # Central Plane contract
@@ -128,6 +115,5 @@ python3 -m src.benchmark
 
 ---
 
-## Attribution & License
-Developed by Zohaib Shoukat (Roll No: 26k-8208, azohaibshoukat22@gmail.com) for Master of Science coursework.  
+## License
 Licensed under the [MIT License](LICENSE).
